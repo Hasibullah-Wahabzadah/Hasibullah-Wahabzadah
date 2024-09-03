@@ -24,5 +24,34 @@
   <a href="https://www.instagram.com/hasibullah_wahabzadah/" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
     
-  
 </div>
+
+  <h1>About Me </h1> 
+
+```javascript
+class HasibullahWahabzadah {
+    constructor() {
+        this.full_name = "Hasibullah Wahabzadah";
+        this.age = 22;
+        this.education = "BS student in Computer Science";
+        this.languages = ["HTML", "CSS", "JavaScript", "Sass", "jQuery"];
+        this.frameworks = ["Bootstrap", "Tailwind CSS", "React"];
+        this.favorites = [
+            "coding",
+            "learning new skills",
+            "graphic design"
+            "reading",
+            "horse riding",
+            "volleyball",
+        ];
+        this.learning = [
+            "Advanced React techniques",
+            "Webflow",
+            "Backend",
+            "UI/UX Design principles"
+        ];
+        this.working_on = ["building a stunning personal portfolio", "learning new frameworks"];
+        this.superpower = "Transforming complex ideas into elegant and functional web interfaces.";
+    }
+}
+
