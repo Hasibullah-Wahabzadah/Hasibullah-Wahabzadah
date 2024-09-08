@@ -6,12 +6,12 @@
   <p> I am professional at designing, developing and implementing beautiful & effective websites and applications.</p>
 </div>
 <div>
-  <h2>My skills</h2>
+  <h2>💻My Skills</h2>
   <img src = "https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwindcss,react,nextjs,git,github" alt= "skills"/>
 </div>
 
 <div>
-  <h2>My Social Networks</h2>
+  <h2>📱My Social Networks</h2>
   <a href="https://www.linkedin.com/in/hasibullah-wahabzadah-45884b26b/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
   
