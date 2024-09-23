@@ -7,7 +7,7 @@
 </div>
 <div>
   <h2>💻My Skills</h2>
-  <img src = "https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwindcss,react,nextjs,git,github" alt= "skills"/>
+  <img src = "https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwindcss,react,vite,nextjs,git,github" alt= "skills"/>
 </div>
 
 <div>
