@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "./v.png" alt="logo" width="250px" />
+  <img src = "./hw.png" alt="logo" width="250px" />
   <br/>
   <br/>
   <h1>Hi 👋 I'm Hasibullah Wahabzadah</h1>
