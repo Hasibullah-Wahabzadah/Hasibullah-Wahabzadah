@@ -14,7 +14,8 @@
 
 <div>
   <h2>🚀 Frameworks & Libraries</h2>
-  <img src="https://skillicons.dev/icons?i=jquery,bootstrap,tailwindcss,react,vite,nextjs,gsap" alt="frameworks & libraries" />
+  <img src="https://skillicons.dev/icons?i=jquery,bootstrap,tailwindcss,react,vite,nextjs" alt="frameworks & libraries" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="50px" alt="tools" />
 </div>
 
 <div>
