@@ -4,7 +4,7 @@
   <br/>
   <h1>Hi 👋 I'm Hasibullah Wahabzadah</h1>
   <p> I am professional at designing, developing and implementing beautiful & effective websites and applications.</p>
-  <img src = "./hasib-min.gif" alt="logo" width="550px" />
+<!--   <img src = "./hasib-min.gif" alt="logo" width="550px" /> -->
 </div>
 <div>
   <h2>💻 Languages</h2>
